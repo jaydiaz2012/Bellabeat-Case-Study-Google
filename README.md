@@ -164,6 +164,7 @@ ggplot(data=combined_data_final1, aes(x=TotalSteps, y=TotalCalories))+
   )+
   theme_minimal()
 ```
+![Calories](https://github.com/jaydiaz2012/Bellabeat-Case-Study-Google/blob/main/images/Rplot_total_calories.png)
 
 Insights would be:
 
@@ -178,6 +179,7 @@ ggplot(data=combined_data_final, aes(x=Weekday, y=TotalSteps))+
     y="Total Steps"
   )
 ```
+![Steps](https://github.com/jaydiaz2012/Bellabeat-Case-Study-Google/blob/main/images/Rplot_day_steps.png)
 
 Insights would be:
 
@@ -202,7 +204,7 @@ pie(value, labels = piepercent,
     legend("topright", c("Very Active", "Fairly Active", "Lightly Active", "Sedentary"),
        cex=0.5, fill = rainbow(length(value)))
 ```
-
+![Active Users](https://github.com/jaydiaz2012/Bellabeat-Case-Study-Google/blob/main/images/Rplot_active_users.png)
 Insights would be:
 
 Most users spend 83.3% of their daily activity doing nothing while only 1.1% very active. 
