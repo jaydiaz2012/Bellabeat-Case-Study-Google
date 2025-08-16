@@ -1,6 +1,3 @@
-# Bellabeat-Case-Study-Google
-Bellabeat Case Study for Google Data Analysis Certificate
-
 ---
 Case Study: Bellabeat Fitness Data Analysis
 by Jeremie Diaz
