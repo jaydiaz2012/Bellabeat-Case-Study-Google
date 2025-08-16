@@ -221,6 +221,7 @@ ggplot(data=summary_activity_rate, aes(x=Weekday, y=AvgVeryActive))+
   )  
 ```
 
+![Active Day](https://github.com/jaydiaz2012/Bellabeat-Case-Study-Google/blob/main/images/Rplot_avg_day.png)
 Insights would be:
 
 Thursday and Saturday are days when the users are very active. This means that the users are active going into the weekends starting in Thursday but suddenly goes down on Sunday. 
